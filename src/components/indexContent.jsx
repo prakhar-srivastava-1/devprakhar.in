@@ -16,8 +16,8 @@ function IndexContent() {
                     Interested in working on Python-based projects and implementing cloud solutions,
                     possibly discharging my duties as a <span class="text-success"><u>Scrum Master</u></span>.
                     </p>
-                    <a class="btn btn-primary" href="{% url 'skills_home' %}" role="button">Go to Skills</a>
-                    <a class="btn btn-warning"  href="{% static 'docs/Prakhar_Srivastava.pdf' %}" target="_new" role="button">View CV</a>
+                    <a class="btn btn-primary" href="#" role="button">Go to Skills</a>
+                    <a class="btn btn-warning"  href="#" target="_new" role="button">View CV</a>
                 </div>
                 </div>
             </div>
